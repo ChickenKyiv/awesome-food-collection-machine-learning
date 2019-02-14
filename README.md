@@ -1,7 +1,7 @@
 # awesome-food-collection-machine-learning
-https://hackernoon.com/machine-learning-food-datasets-collection-db21e38ea225
+- https://hackernoon.com/machine-learning-food-datasets-collection-db21e38ea225
 
-https://github.com/foodopendata/food-datasets/blob/master/data/food-datasets.csv
+- https://github.com/foodopendata/food-datasets/blob/master/data/food-datasets.csv
 
 
 
@@ -58,12 +58,12 @@ https://github.com/foodopendata/food-datasets/blob/master/data/food-datasets.csv
 
 - https://medium.com/tensorflow/complete-code-examples-for-machine-translation-with-attention-image-captioning-text-generation-51663d07a63d
 
-https://github.com/search?l=Python&q=text+translation&type=Repositories
+- https://github.com/search?l=Python&q=text+translation&type=Repositories
 
-https://www.strakertranslations.com/2012/11/cuisine-translations-how-to-translate-menus-and-food-product-labels/
+- https://www.strakertranslations.com/2012/11/cuisine-translations-how-to-translate-menus-and-food-product-labels/
 
-http://azahar-sevilla.com/sevilletapas/translations/
-https://www.itcglobaltranslations.com/agro-food-translation-services/
+- http://azahar-sevilla.com/sevilletapas/translations/
+- https://www.itcglobaltranslations.com/agro-food-translation-services/
 
 
 
