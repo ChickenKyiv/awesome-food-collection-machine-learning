@@ -68,5 +68,74 @@
 
 
 
+## unprocessed
+
+- https://food.schoolofdata.ch/foodrepo-nutrients/
+
+- https://food.schoolofdata.ch/food-allergens/
+
+- https://ndb.nal.usda.gov/ndb/
+
+
+- http://ilsina.org/our-work/research-tools-open-data/bfpd/
+
+- https://github.com/foodopendata/food-datasets/blob/master/data/food-datasets.csv
+
+- https://www.restaurantowner.com/public/DOWNLOAD-Menu-Recipe-Cost-Spreadsheet-Template.cfm
+
+- https://catalog.data.gov/dataset/food-environment-atlas-f4a22
+
+
+- https://www.dairyfoods.com/directories/7376-dairy-plants-usa/topic/105396-cheese
+
+
+---
+
+
+- https://www.foodrepo.org/
+- https://www.kaggle.com/c/favorita-grocery-sales-forecasting/data
+- https://github.com/fictivekin/openrecipes/tree/master/scripts
+
+- https://www.kaggle.com/dorbicycle/world-foodfeed-production
+
+- https://www.kaggle.com/theworldbank/health-nutrition-and-population-statistics
+
+- hhttps://basel.farm/
+
+- https://opendata.ch/
+
+- https://hack.opendata.ch/project/162
+
+- http://recipedistiller.com/
+
+
+- https://food.opendata.ch/
+
+- https://dev.caloriemama.ai/
+
+- http://www.fao.org/faostat/en/#data/FBS
+
+- https://food.opendata.ch/files/2017/12/Final-Report-MeatStory-1.pdf
+
+- https://www.foodrepo.org/
+
+- https://public.3.basecamp.com/p/uD3B4KofhJvX1v42uemTrcpV
+
+---
+
+---------------------
+- https://healthdata.gov/search/type/dataset?query=food&sort_by=changed&sort_order=DESC
+- http://data.europa.eu/euodp/en/data/dataset?q=food&ext_boolean=all&sort=
+- https://healthdata.gov/search/type/dataset
+- https://healthdata.gov/dataset/food-environment-atlas
+- https://www.choosemyplate.gov/tools-supertracker
+- http://datamarket.azure.com/browse/data?price=free
+- http://mldata.org/repository/data/
+- https://healthdata.gov/dataset/food-inspections
+- https://healthdata.gov/dataset/dietary-guidelines-americans-2010
+- https://healthdata.gov/dataset/oahu-food-establishments
+- https://whatscooking.fns.usda.gov/sites/default/files/featuredlinks/HealthyEatingonaBudgetCookbook.pdf
+
+- https://www.kaggle.com/datasets?sortBy=relevance&group=public&search=food&page=1&pageSize=20&size=all&filetype=all&license=all
 
 
