@@ -98,7 +98,7 @@
 
 - [Meal Organization Management: a seamless system for food organization in the Smart Kitchen](https://hack.opendata.ch/project/162)
 
-- [Recipe Distiller](http://recipedistiller.com/)
+- [Recipe Distiller](http://recipedistiller.com/) Recipe Distiller is the easiest way to create grocery lists from recipes on the web.
 
 
 - https://food.opendata.ch/
